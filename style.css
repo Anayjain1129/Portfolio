@@ -122,7 +122,7 @@ button:nth-child(2):hover{
 }
 .circle:nth-child(2){
     width: 30rem;
-    background-image: url("image/Portfolio\ img.jpg");
+    background-image: url("./img.jpg");
     background-size: 100%;
     background-repeat: no-repeat;
     border: .5rem solid white;
